@@ -26,7 +26,7 @@ Acceso a terminal
 📥 Instalación
 
 # Clonar el repositorio
-git clone https://github.com/tuusuario/UDPcat-Go.git
+git clone https://github.com/hackermexico/UDPcat-Go.git
 cd UDPcat-Go
 
 # Compilar
